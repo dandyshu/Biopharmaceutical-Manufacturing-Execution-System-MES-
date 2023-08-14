@@ -7,3 +7,4 @@ etl process:
 4).valid and test the aggregated data and store all the data to csv file
 5).delete the finished experiment to save space
 6).update the input and output valve status
+
